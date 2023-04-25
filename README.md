@@ -62,7 +62,7 @@ To run this project, you will need to add the following environment variables to
 ```
 ## Screenshots
 
-[![api.png](https://i.postimg.cc/kgCnhFST/api.png)](https://postimg.cc/bs6cZn3n)
+<img src="https://drive.google.com/uc?export=download&id=1AQoDQUxid6ojoyHVINvDG0ZP8-DWRHaA" alt="secreen showt for api"/>
 
 
 ## Authors
