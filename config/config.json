@@ -1,0 +1,15 @@
+{
+  "development": {
+    "dialect": "mysql", 
+    "host": "localhost",
+    "username": "root",
+    "password": "",
+    "database": "folderMangment",
+    "migrationStorageTableName": "sequelize_meta",
+    "seederStorageTableName": "sequelize_data",
+    "modelsDir": "models",
+    "seedersDir": "seeders",
+    "migrationsDir": "db/migrations" 
+  }
+  
+}
